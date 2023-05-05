@@ -89,5 +89,9 @@ Design a part in one design studio using 4 drawing answering them one by one in 
 ### Reflection
 The hardest part of this was trying to get the write mass after messing up. So what I would do is go back and double check making sure the dimensions were write. The I would look how much the mass was off by and that would tell me how big my mistake is. This solution seemed to work and I was able to get the correct mass.
 
-## Onshape Certification
-### Certificate: 
+# Onshape Certification
+## Certificate: 
+[Mason_Certified_Onshape_Associate_1683292425175.pdf](https://github.com/MasonD552/Intermediate-CAD/files/11406527/Mason_Certified_Onshape_Associate_1683292425175.pdf)
+
+## Reflection
+Preparing for the Onshape certification test the first time made me feel like I was in a big hury to take a big test that doesn't even effect my grade. When I arrived at school that morning I treated it like a normal day of school. I had breakfast; I woke up and brushed my teeth. When the test started it had seemed like I had forgotten how to do CAD. Going through the multiple choice questions was fine but once I got to the CAD section it had seemed like I had forgotten how to do the swing arm as well as the pump cylinder. I finished that exam and did not pass. I felt as though I could have done better. So after that I prepared myself better. 3 weeks later I took the Onshape Certification test again and passed! I felt amazing. I felt as though I had redeemed myself.
