@@ -89,6 +89,15 @@ Design a part in one design studio using 4 drawing answering them one by one in 
 ### Reflection
 The hardest part of this was trying to get the write mass after messing up. So what I would do is go back and double check making sure the dimensions were write. The I would look how much the mass was off by and that would tell me how big my mistake is. This solution seemed to work and I was able to get the correct mass.
 
+
+## Onshape_Assemblies
+
+### Description
+
+### Photos
+
+### Reflection
+
 # Onshape Certification
 ## Certificate: 
 [Mason_Certified_Onshape_Associate_1683292425175.pdf](https://github.com/MasonD552/Intermediate-CAD/files/11406527/Mason_Certified_Onshape_Associate_1683292425175.pdf)
