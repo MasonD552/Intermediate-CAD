@@ -94,7 +94,9 @@ The hardest part of this was trying to get the write mass after messing up. So w
 
 ### Description
 
-### Photos
+### Certificate and Photos
+[Onshape Assemblies Certificate](https://github.com/MasonD552/Intermediate-CAD/files/11464690/mason-divers-0c750ad3-894a-41de-ad89-0c5b42660adf-certificate.pdf)
+
 
 ### Reflection
 
