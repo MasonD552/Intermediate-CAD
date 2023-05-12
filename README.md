@@ -100,9 +100,9 @@ The hardest part of this was trying to get the write mass after messing up. So w
 
 # Onshape Certification
 ## Certificate: 
-[Mason_Certified_Onshape_Associate_1683292425175.pdf](https://github.com/MasonD552/Intermediate-CAD/files/11406527/Mason_Certified_Onshape_Associate_1683292425175.pdf)
+[Mason_Certified_Onshape_Associate_Scores](https://github.com/MasonD552/Intermediate-CAD/files/11406527/Mason_Certified_Onshape_Associate_1683292425175.pdf)
 
-[mason-divers-95bedf5c-f1ef-4cf6-8df1-f864ceb3e27b-certificate.pdf](https://github.com/MasonD552/Intermediate-CAD/files/11464274/mason-divers-95bedf5c-f1ef-4cf6-8df1-f864ceb3e27b-certificate.pdf)
+[Certificate](https://github.com/MasonD552/Intermediate-CAD/files/11464274/mason-divers-95bedf5c-f1ef-4cf6-8df1-f864ceb3e27b-certificate.pdf)
 
 ## Reflection
 Preparing for the Onshape certification test the first time made me feel like I was in a big hury to take a big test that doesn't even effect my grade. When I arrived at school that morning I treated it like a normal day of school. I had breakfast; I woke up and brushed my teeth. When the test started it had seemed like I had forgotten how to do CAD. Going through the multiple choice questions was fine but once I got to the CAD section it had seemed like I had forgotten how to do the swing arm as well as the pump cylinder. I finished that exam and did not pass. I felt as though I could have done better. So after that I prepared myself better. 3 weeks later I took the Onshape Certification test again and passed! I felt amazing. I felt as though I had redeemed myself.
