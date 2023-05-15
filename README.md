@@ -93,12 +93,19 @@ The hardest part of this was trying to get the write mass after messing up. So w
 ## Onshape_Assemblies
 
 ### Description
-
+Learn how to create and work with Onshape assemblies. This course places a strong emphasis on how to mate components using Onshape’s unique high-level mates and explores how they compare to the low-level mates found in traditional CAD systems. Other topics include: Creating an assembly, Adding components Mating components; and Using best practices when working with assemblies in Onshape
 ### Certificate and Photos
 [Onshape Assemblies Certificate](https://github.com/MasonD552/Intermediate-CAD/files/11464690/mason-divers-0c750ad3-894a-41de-ad89-0c5b42660adf-certificate.pdf)
+![image](https://github.com/MasonD552/Intermediate-CAD/assets/91158978/2ef865ca-5d6d-40fc-9777-95747ac282f8)
 
 
 ### Reflection
+
+During the course on creating and working with Onshape assemblies, I gained valuable insights into the world of 3D design and assembly management. The focus of this learning experience was centered around mastering the art of mating components using Onshape's distinctive high-level mates, and understanding their advantages over the conventional low-level mates found in traditional CAD systems.
+
+One of the fundamental skills I acquired was the ability to efficiently create assemblies in Onshape. I learned how to organize and structure the components, ensuring a streamlined workflow throughout the entire process. This knowledge allowed me to bring together multiple parts and create complex assemblies with ease, opening up a world of possibilities for my design projects.
+
+The course also provided comprehensive guidance on adding components to assemblies. I learned how to import and integrate various parts seamlessly, ensuring proper alignment and positioning. This knowledge was invaluable in enhancing the functionality and realism of my designs, as it enabled me to bring together different elements to create a cohesive whole.
 
 # Onshape Certification
 ## Certificate: 
